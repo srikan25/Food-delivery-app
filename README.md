@@ -33,3 +33,36 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+```
+
+## ⚙️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/srikan25/Food-delivery-app.git
+```
+
+Navigate to the project:
+
+```bash
+cd Food-delivery-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 👨‍💻 Author
+
+**Srikanth**
+
+GitHub: [@srikan25](https://github.com/srikan25)
